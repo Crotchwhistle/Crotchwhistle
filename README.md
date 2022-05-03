@@ -1,5 +1,5 @@
 - i’m @Crotchwhistle and i code stuff when i feel like it
-- i waste my time by creating html webpages instead of using squarespace
+- i waste my time by creating html webpages instead of using squarespace or smth that's easier
 - i need help
 
 <!---
